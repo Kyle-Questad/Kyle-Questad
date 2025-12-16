@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm kyle, a passionate IT and Cyber profesional.
+I'm Kyle, a passionate IT and Cyber profesional.
 
 💻 I'm currently work as an IT Supprt Analyst were I assist over 4,000 end users troubleshoot deep technical issues. 
 
