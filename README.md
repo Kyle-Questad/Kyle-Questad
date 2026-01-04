@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm Kyle, a passionate IT and Cyber profesional.
+I'm **Kyle**, an IT Support Analyst and aspiring Cybersecurity Profesional with an interest in SOC operations and IAM.
 
-💻 I'm currently work as an IT Supprt Analyst were I assist over 4,000 end users troubleshoot deep technical issues. 
+💻**What I Do** 
+- I'm currently work as an IT Supprt Analyst were I assist over 4,000 end users troubleshoot deep technical issues.
+- Hands on experience with ticketing systems, CRM, troubleshooting workflows, and enterprise IT envrionments 
 
-🔏 My passion for Information Technology has led to me gaining my Comtia Security+ and my Microsoft Certified Azure fundamenls certifications. These certification have strengthened my foundation in cybersecurity and cloud concepts.
+🔏 **Cybersecurity Focus**
+- CompTIA **Security+** certified
+- Microsoft Certified **Azure Fundamentals (AZ-900)**
+- Currently Studying for **CompTIA CySA+**
 
-🎓 I'm currently pursuing a Bechelors degree in Information Systems from Grand Canyon University. Along with my studies I'm working on building a SOC-Focused homelab deploying microsoft sentinel and preparing for the Comtia CySA+ certification.
+🎓**Education**
+- Bechelor's degree in **Information Systems**
+- **Grand Canyon Univeristy**
 
-📫 Feel free to reach out to me via linkedin to talk all things IT and Cyber.
-https://www.linkedin.com/in/kyle-questad-ab7486329/
+🚀**Career Interests**
+- SOC Analyst
+- Identity & Access Management (IAM)
 
+📫 **Let's Connect**
+- https://www.linkedin.com/in/kyle-questad-ab7486329/
+
+
+---
+⭐ Check out some of my projects below!
 
  
 
