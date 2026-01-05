@@ -12,8 +12,8 @@ I'm **Kyle**, an IT Support Analyst and aspiring Cybersecurity Profesional with 
 - Currently Studying for **CompTIA CySA+**
 
 🎓**Education**
-- Bechelor's degree in **Information Systems**
-- **Grand Canyon Univeristy**
+- Bachelor's degree in **Information Systems**
+- **Grand Canyon Univeristy (Spring 2027)**
 
 🚀**Career Interests**
 - SOC Analyst
